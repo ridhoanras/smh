@@ -1,0 +1,38 @@
+.kurikulum h2 {
+  font-family: var(--font-title);
+  margin-bottom: 3rem;
+  text-align: center;
+  width: 100%;
+}
+
+.kurikulum__portrait {
+  border-radius: 50%;
+  float: left;
+  height: 350px;
+  margin-bottom: 1.5rem;
+  margin-right: 3rem;
+  shape-outside: circle();
+  width: 350px;
+}
+
+.kurikulum__portrait img {
+  border-radius: 50%;
+}
+
+@media (max-width: 700px) {
+  .kurikulum__inner {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .kurikulum__portrait {
+    float: unset;
+    height: auto;
+    margin-right: 0;
+    max-height: 350px;
+    max-width: 350px;
+    shape-outside: none;
+    width: 100%;
+  }
+}

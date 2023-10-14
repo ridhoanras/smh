@@ -1,0 +1,11 @@
+---
+email: 
+image: ../../images/portrait.png
+name: Dra. E. Herlina Yuliasih, M.Pd.
+order: 1
+title: Ketua Yayasan Mutiara Hati
+---
+Sekolah Mutiara Hati berdiri tahun 2006 dimulai dari sebuah Taman kanak-kanak yang berlokasi di jalan Mawar nomor 49 Kavling Sukasari Kecamatan Tangerang kota Tangerang. Pada awal tahun pendiriannya, TK Mutiara Hati memiliki siswa sebanyak 24 siswa dan tenaga pendidik sebanyak 5 orang. </br></br>
+Berdirinya TK Mutiara Hati yang dipimpin oleh Ibu Dra. E. Herlina Yuliasih– yang akrab dipanggil Bunda Lina - tak lepas dari doa dan dukungan Bapak Ahmad Djarnudji, BA yaitu ayahanda dari Bunda Lina. Semangat juang ayahanda untuk membangun dunia pendidikan di kota Tangerang melalui penyelenggaraan pendidikan yang berkualitas telah menitis kepada putra putrinya yang juga mendedikasikan diri di dunia pendidikan. Dari mulai TK, SD, SMP dan SMA. Karir ayahanda bunda Lina semasa hidupnya diawali sebagai guru kemudian menjabat kepala sekolah SMP PGRI kota Tangerang dan pengawas TK/ SD Dinas Pendidikan kota Tangerang.</br></br>
+Daya juang yang diwariskan ayahanda, membuat Bunda Lina bergerak untuk mencari pola pendidikan yang cocok untuk diterapkan di TK Mutiara Hati. Dari hasil kompilasi pengalaman Bunda Lina mengajar TK selama lebih dari 25 tahun serta hasil belajar dari Sekolah Al Falah Jakarta pimpinan ibu Drg. Wismiarti dan Alm. Ibu Nibras OR Salim, TK Mutiara hati menerapkan konsep pembelajaran menggunakan model sentra. Di setiap sentra dibangun 6 domain, Multiple Intelligences, 18 Sikap dan tahapan perkembangan. Pada awal berdiri tahun 2006 tersedia 3 sentra. Kemudian pada tahun 2008 sentra berkembang menjadi 4, selanjutnya pada tahun 2010 menjadi 6 sentra hingga saat ini.</br></br>
+Pada tahun 2013 TK Mutiara Hati dipercaya sebagai pelaksana magang guru TK sekota Tangerang. Hingga saat ini sudah banyak kunjungan, studi banding, pelatihan dan magang guru dari dalam/luar kota Tangerang dilaksanakan. Inilah cikal bakal lahirlah Mutiara Hati Learning Center. Alhamdulillah atas kepercayaan para orang tua murid lulusan TK Mutiara Hati, pada tahun 2014 Sekolah Mutiara Hati melebarkan sayap dengan mendirikan Sekolah Dasar (SD) Mutiara Hati dengan konsep pembelajaran model sentra berbasis kerja.

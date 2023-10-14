@@ -1,0 +1,7 @@
+---
+title: SMP Mutiara Hati
+image: ../../images/stage/robot-army.png
+order: 3
+---
+Sekolah Mutiara Hati adalah sekolah Islam yang menggunakan model pembelajaran berbasis kerja proyek melalui sentra pembelajaran. Siswa dibangun enam domain berpikimya yaitu estetika, afeksi, koginisi, bahasa, fisik dan sosial sesuai tahap perkembangannya. Sekolah Mutiara Hati ingin menciptakan lingkungan yang bersih, aman dan nyaman seperti di rumah sendiri. Sehingga anak betah dan cinta dengan sekolahnya dan pada akhirnya cinta dan pandai belajar. Capaian setiap siswa dipetakan melalui kurikulum individual dengan tujuan agar semua domain dapat berkembang secara maksimal melalui pendampingan (scaffolding) dari guru atau orang tua dengan tepat sesuai kebutuhannya.</br></br>
+18 Sikap Mulia dan profil pelajar Pancasila adalah pondasi awal yang ingin dibangun pada peserta didik di SMP Mutiara Hati melalui kegiatan pembiasaan di dalam dan di luar kelas. Komunikasi yang dibangun antara guru dan siswa adalah Tanpa 3 M (Marah, Melarang- Memerintah). SMP Mutiara Hati juga menggunakan sistem moving class dengan sentra yang berputar setiap harinya. Hal ini dimaksudnya agar siswa selalu dinamis dan mengakomodir kebutuhan dan gaya belajar siswa.

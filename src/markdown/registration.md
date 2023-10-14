@@ -1,10 +1,5 @@
 Link Pendaftaran Calon Peserta Didik Sekolah Mutiara Hati Kota Tangerang.
 
-<video controls>
-    <source src="../markdown/opening.mp4" type="video/webm" />
-    Browsermu tidak mendukung tag ini, upgrade donk!
-</video>
-
 ### PPDB TK
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

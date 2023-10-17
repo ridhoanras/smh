@@ -29,13 +29,7 @@ const Navbar = forwardRef((
         className="nav__menu"
         style={{ transform }}
       >
-        <ButtonIcon
-          ariaLabel="navigation menu"
-          icon={faBars}
-          kind="primary"
-          onClick={handleClick}
-          type="button"
-        />
+        
         <div
           className="nav__menu-links"
           ref={ref}
